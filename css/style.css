@@ -1,0 +1,41 @@
+/* COLOR VARIABLES
+============================================= */
+/* GRADIENT LISTS
+============================================= */
+.wrapper {
+  position: relative;
+  overflow: hidden;
+  width: 500px;
+  margin: 0 auto;
+}
+
+.bar {
+  height: 50px;
+  width: 100%;
+  margin-top: 10px;
+}
+
+.one {
+  background: -webkit-linear-gradient(left, #82d2e5, #c1d72e, #ffa600);
+}
+
+.two {
+  background: -webkit-linear-gradient(right, #82d2e5, #c1d72e, #ffa600);
+}
+
+.three {
+  background: -webkit-linear-gradient(left, #82d2e5 0%, #82d2e5 33%, #c1d72e 33%, #c1d72e 66%, #ffa600 66%, #ffa600 100%);
+}
+
+.four {
+  background: -webkit-linear-gradient(top, #82d2e5 0%, #82d2e5 10%, #c1d72e 25%, #c1d72e 39%, #ffa600 79%, #ffa600 100%);
+}
+
+.five {
+  background: -webkit-linear-gradient(bottom, #82d2e5 0%, #82d2e5 10%, #c1d72e 25%, #c1d72e 39%, #ffa600 79%, #ffa600 100%);
+}
+
+.six {
+  background: -webkit-linear-gradient(left, #82d2e5, #c1d72e, #ffa600, #82d2e5, #c1d72e, #ffa600, #82d2e5, #c1d72e, #ffa600);
+}
+/*# sourceMappingURL=style.css.map */
